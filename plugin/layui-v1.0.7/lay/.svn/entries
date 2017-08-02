@@ -1,0 +1,37 @@
+10
+
+dir
+273
+https://192.168.1.105:8443/svn/zhwl/zh-html/src/main/static/plugins/layui-v1.0.7/lay
+https://192.168.1.105:8443/svn/zhwl
+
+
+
+2017-01-12T08:52:09.973645Z
+133
+liuxy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+36138bbc-8bc9-c145-be6b-9221d43a9c18
+
+dest
+dir
+
+lib
+dir
+
+modules
+dir
+
